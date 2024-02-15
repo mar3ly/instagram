@@ -1,0 +1,41 @@
+body{
+
+    background-color: black;
+    color: white;
+.instagramContainer{
+    align-content: flex-end;
+
+
+
+}
+.carousel-images{
+border-radius: 50%
+
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a basic font */
+
+  .footer-icons{
+    display:flex;
+    justify-content: space-evenly;
+  }
+
+  .flex-container{
+    display: flex;
+  }
+  
+  .item {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    color: white;
+    margin: 10px;
+  }
+
+}
